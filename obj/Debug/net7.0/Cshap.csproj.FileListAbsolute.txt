@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\New folder\Cshap\bin\Debug\net7.0\Cshap.exe
+C:\Users\ADMIN\Desktop\New folder\Cshap\bin\Debug\net7.0\Cshap.deps.json
+C:\Users\ADMIN\Desktop\New folder\Cshap\bin\Debug\net7.0\Cshap.runtimeconfig.json
+C:\Users\ADMIN\Desktop\New folder\Cshap\bin\Debug\net7.0\Cshap.dll
+C:\Users\ADMIN\Desktop\New folder\Cshap\bin\Debug\net7.0\Cshap.pdb
+C:\Users\ADMIN\Desktop\New folder\Cshap\obj\Debug\net7.0\Cshap.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\Cshap\obj\Debug\net7.0\Cshap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\New folder\Cshap\obj\Debug\net7.0\Cshap.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\New folder\Cshap\obj\Debug\net7.0\Cshap.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\New folder\Cshap\obj\Debug\net7.0\Cshap.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\Cshap\obj\Debug\net7.0\Cshap.dll
+C:\Users\ADMIN\Desktop\New folder\Cshap\obj\Debug\net7.0\refint\Cshap.dll
+C:\Users\ADMIN\Desktop\New folder\Cshap\obj\Debug\net7.0\Cshap.pdb
+C:\Users\ADMIN\Desktop\New folder\Cshap\obj\Debug\net7.0\Cshap.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\New folder\Cshap\obj\Debug\net7.0\ref\Cshap.dll
